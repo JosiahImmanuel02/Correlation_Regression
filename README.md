@@ -21,9 +21,11 @@ If y represents the dependent variable and x the independent variable, this rela
 
 # Program :
 
-![image](https://github.com/ramjan1729/Correlation_Regression/assets/103921593/9eb48cbf-8ca3-4cd9-8440-ff45fd98333e)
+![ex-03](https://github.com/user-attachments/assets/2666fa65-6899-4585-a3f7-f411931f24e5)
+
 
 
 # Result
 
 # Output 
+![output](https://github.com/user-attachments/assets/3276db1e-7328-4498-abe8-ebb83d264410)
